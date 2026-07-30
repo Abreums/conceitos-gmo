@@ -349,3 +349,15 @@ $selection-bg: #26351c !default;
 .reveal .columns6040 div.column:not(:first-child) {
   width: 40%;
 }      
+
+
+.reveal .message-box {
+  display: inline-block;
+  padding: 0.6em 1.2em;
+  background: "#F7F4D5"; // rgba(255,255,255,0.80);
+  border-radius: 12px;
+  color: "#9a2515";
+  font-family: $font-family-sans-serif;
+  font-size: 1.5em;
+  font-weight: 700;
+}
