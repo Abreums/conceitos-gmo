@@ -9,6 +9,7 @@ author:
     email: abreums@gmail.com
 date: "2024-10-01"
 ---
+<!-- deploy help from: https://stackoverflow.com/questions/31163633/how-to-host-a-reveal-js-presentation -->
 
 # O que vamos ver... {background-color="#105666"}
 
