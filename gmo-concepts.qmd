@@ -1,0 +1,170 @@
+---
+title: 3 Conceitos da Gestão de Mudanças Organizacionais
+format:
+  clean-revealjs:
+    self-contained: true
+author:
+  - name: Marcos Abreu
+    orcid: 0000-0003-4772-7955
+    email: abreums@gmail.com
+date: "2024-10-01"
+---
+
+# O que vamos ver... {background-color="#105666"}
+
+## 3 conceitos da Gestão de Mudanças Organizacionais (GMO) {background-color="#F7F4D5"}
+
+###    
+
+1. "Casa Nova"<p/>
+
+2. "Guarda-roupa"<p/>
+
+3. "Torta de Rins"<p/>
+
+4. Como usar estes conceitos<p/>
+
+
+# Conceito número 1 - "Casa Nova" {background-color="#D3968C"}
+
+## Sua família está mudando para uma **Casa Nova**...     
+
+A casa está em um bairro melhor, é maior e mais bem estruturada...     
+Mas você se sente **infeliz**. Por que? O que você está [perdendo]{.fg style="--col: #e64173"}?     
+
+::: {.fragment}   
+- Relacionamentos:    
+  - Seus vizinhos com os quais você tinha ótimo relacionamento não estarão mais próximos.
+:::     
+::: {.fragment}   
+- Facilidades:    
+  - Se precisar sair as 2h da madrugada para ir na farmácia não saberá para onde ir.
+:::     
+::: {.fragment}   
+- Memórias afetivas:
+  - O batente da porta do quarto do seu filho, tinha as várias marcas e datas da altura das crianças. 
+:::
+
+## {background-image="img/tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg"}
+     
+::: {.message-box}
+Conceito número 1 - "Casa Nova":    
+
+Mesmo mudanças boas trazem perdas.
+:::
+
+# Conceito número 2 - "Guarda-Roupa" {background-color="#839958"}
+
+## Qual é a peça de roupa mais velha que você guarda sem usar?
+
+### Quais são as justificativas que as pessoas utilizam para guardar roupa que não usa mais?      
+
+:::{.fragment}   
+- Valor:
+  - A peça de roupa custou caro, e por isto, deve ter algum valor.
+:::
+:::{.fragment}   
+- Risco:
+  - "Pode ser que eu precise" e por isto é importante guardar.
+:::
+:::{.fragment}   
+- Emocional:
+  - A peça de roupa está relacionada com alguma memória afetiva.
+:::
+
+## Quais são os problemas gerados 
+
+### Guardar roupa que não se usa mais gera problema. Quais?
+
+:::{.fragment}   
+- Perda de espaço:
+  - A peça ocupa espaço, e atrapalha guardar novas roupas.
+:::
+:::{.fragment}   
+- Impacto nos outros:
+  - A roupa pode ser mais útil e importante para outras pessoas que precisam dela.
+:::
+:::{.fragment}   
+- Complexidade:
+  - Fica mais difícil manter o guarda-roupa arrumado.
+:::
+
+
+## {background-image="img/burgess-milner-OYYE4g-I5ZQ-unsplash.jpg"}
+    
+::: {.message-box}
+Conceito número 2 - "Guarda-Roupa":     
+
+- É preciso aprender a desapegar 
+("deixar ir embora").
+:::
+
+
+# Conceito número 3 - "Torta de Rins" {background-color="#105666"}
+
+## O Desafio Alimentar em Tempo de Guerra
+
+### Escassez de Carne durante a 2a Gerra Mundial    
+
+:::{.fragment}   
+- O governo dos EUA precisava que os cidadãos comessem "carnes alternativas" — como rins, corações e cérebros — enquanto os soldados comiam cortes convencionais.
+  - As donas de casa controlavam os alimentos que entravam em casa, tornando-as o alvo da mudança.
+:::
+:::{.fragment}   
+- Palestras falharam: 
+  - Explicar às pessoas por que deveriam comer vísceras por meio de discursos de especialistas raramente funcionava. 
+- **Discussões em grupo foram bem-sucedidas**: 
+  - Permitir que as donas de casa conversassem abertamente e fizessem uma escolha em grupo levou a mudanças reais nas refeições familiares. 
+:::
+
+
+## Palestras vs Decisão em Grupo
+
+:::{.fragment}   
+- Palestras: 
+  - Grupos de cerca de 15 mulheres assistiram a uma palestra de uma nutricionista sobre como incorporar vísceras à alimentação de suas famílias. Elas aprenderam a lidar com o odor, a textura e a aparência característicos dessas carnes e receberam receitas para experimentar em casa.
+
+- Decisão em grupo:
+  - As mulheres participaram ativamente de uma discussão sobre como mudar os hábitos alimentares dos americanos para lidar com a escassez de alimentos em tempos de guerra. 
+  - Quando expressaram suas objeções pessoais, como a aversão a vísceras, a nutricionista apresentou dicas de culinária para melhorar o e controlar odores fortes.
+:::
+
+## {background-image="img/gary-moreton-jones-_a-IQMPr0q0-unsplash.jpg"}
+    
+::: {.message-box}
+Conceito número 3 - "Torta de Rins":     
+          
+- A mudança é sempre individual. 
+
+- Mas, o processo de mudança é mais efetivo quando faz parte de um contexto social.
+:::
+
+## {background-color="#F7F4D5"}
+
+### Como podemos utilizar estes conceitos?
+
+## Compreender os conceitos de GMO e aplicá-los na construção de um Plano de Gestão de Mudanças
+
+:::{.fragment}   
+- Impactos:
+  - Precisamos aprender a identificar Mudanças Organizacionais e seus Impactos.
+    - Impactos de novos processos (["Casa Nova"]{.fg style="--col:  #839958"}).
+    - Impactos da eliminação de velhos processos (["Guarda-Roupa"]{.fg style="--col:  #839958"}).
+  - A identificação de impactos demanda um [pensamento sistêmico]{.fg style="--col:  #e64173"}.
+:::
+:::{.fragment}   
+- Lógica de Transformação (["Torta de Rins"]{.fg style="--col:  #839958"}):
+  - Não é a implantação de um novo sistema de software que gera valor, mas o uso efetivo do mesmo pela equipe.
+  
+:::
+
+
+## {background-image="img/kanagawa.jpg"}
+::: {.message-box}
+Pergunta final:
+
+:::{.fragment}
+Estamos planejando para mitigar a dor da mudança ou para apoiar o processo de transformação?
+:::
+:::
+
