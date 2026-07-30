@@ -23,8 +23,10 @@ Note: This theme uses the Roboto font family, which it imports from Google
   (e.g., Helvetica on a Mac). Circling back to the earlier point about
   preserving consistent font weights, you may also wish to remove "Roboto"
   from the choice set if the family is installed locally.
-*/
+
 @import url('https://fonts.googleapis.com/css?family=Roboto:200,200i,300,300i,350,350i,400,400i&display=swap');
+*/
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Ovo&family=Roboto:200,200i,300,300i,350,350i,400,400i&display=swap');
 
 $font-family-sans-serif: "Roboto", sans-serif !default;
 $presentation-heading-font: "Roboto", sans-serif !default;
@@ -354,10 +356,10 @@ $selection-bg: #26351c !default;
 .reveal .message-box {
   display: inline-block;
   padding: 0.6em 1.2em;
-  background: "#F7F4D5"; // rgba(255,255,255,0.80);
+  background: #F7F4D5 !important; // rgba(255,255,255,0.80);
   border-radius: 12px;
-  color: "#9a2515";
-  font-family: $font-family-sans-serif;
+  color: #9a2515;
+  font-family: "Josefin Slab";
   font-size: 1.5em;
   font-weight: 700;
 }
